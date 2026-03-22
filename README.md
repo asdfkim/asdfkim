@@ -10,10 +10,12 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=3D444D&height=1)
 
-<br> <br> <br> <br>
-<br> <br> <br> <br>
-<br> <br> <br> <br>
-<br> <br> <br> <br>
+<br> <br> <br>
+<br> <br> <br>
+<br> <br> <br>
+<br> <br> <br>
+<br> <br> <br>
+<br> <br> <br>
 
 #### Tech Stack
 <p align="center">
